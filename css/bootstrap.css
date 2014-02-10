@@ -4303,7 +4303,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .label[href]:hover,
 .label[href]:focus {
-  color: #ffffff;
+  color: #FFFFFF;
   text-decoration: none;
   cursor: pointer;
 }
